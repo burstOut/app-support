@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>沙坊農場 - 技術支持</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+        }
+        body {
+            background-color: #f8f8f8;
+            color: #333;
+            line-height: 1.8;
+            padding: 40px 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #222;
+            font-size: 24px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .app-desc {
+            font-size: 16px;
+            margin-bottom: 30px;
+            text-align: left;
+        }
+        .contact {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        .contact h2 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            color: #444;
+        }
+        .contact p {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .contact a {
+            color: #007AFF; /* 苹果蓝，适配iOS视觉 */
+            text-decoration: none;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: #888;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>沙坊農場 - 技術支持</h1>
+    
+    <div class="app-desc">
+        「沙坊農場」是為學生打造的無土栽培智能日誌App，支持植物生長記錄、環境數據監測、營養液管理與實驗觀察功能，助力農業科技學習與實踐。
+    </div>
+
+    <div class="contact">
+        <h2>聯繫我們</h2>
+        <p>如您在使用過程中遇到任何問題，請通過以下方式聯繫技術支持：</p>
+        <p>📧 郵箱：<a href="mailto:313020599@qq.com">313020599@qq.com</a></p>
+        <p>📱 聯繫電話（選填）：<a href="tel:19941982606">19941982606</a></p>
+    </div>
+
+    <div class="footer">
+        <p></p>
+        <p>© 2026 沙坊農場 版權所有</p>
+    </div>
+</body>
+</html>
